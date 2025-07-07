@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity Selection Problem/Activity Selection Problem.iml" filepath="$PROJECT_DIR$/Activity Selection Problem/Activity Selection Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HackWithInfy2025.iml" filepath="$PROJECT_DIR$/.idea/HackWithInfy2025.iml" />
     </modules>
   </component>
